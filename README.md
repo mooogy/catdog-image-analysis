@@ -15,7 +15,7 @@ This project explores image classification techniques using embeddings from a pr
 ## Analysis Recreation
 > **Note**: Due to size constraints, the dataset is not included in this repository.  
 To use this project:
-1. Download the dataset from Kaggle.
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset).
 2. Extract the `cat/` and `dog/` folders from the Kaggle dataset into a `dataset/` directory:
 ```
 catdog-image-analysis/
@@ -31,7 +31,7 @@ catdog-image-analysis/
 
 ## The Data
 
-The image dataset used in this project was sourced from Kaggle, containing labeled images of cats and dogs. The dataset consists of:
+The image dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset), containing labeled images of cats and dogs. The dataset consists of:
 - 1,000+ cat images
 - 1,000+ dog images
 - JPEG format, standard resolution
